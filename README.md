@@ -1,4 +1,4 @@
-### `Music Project in React`
+# `Music Project in React`
 
 ### `Trello Link`
 https://trello.com/b/8xeIyeqY/music-project
